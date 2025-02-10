@@ -1,0 +1,10 @@
+names:
+- Runner
+nc: 1   
+
+
+train: manrunninginsnow/train/images 
+val: manrunninginsnow/valid/images    
+
+
+

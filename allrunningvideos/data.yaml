@@ -1,0 +1,10 @@
+names:
+- Runner
+nc: 1   
+
+
+train: allrunningvideos/train/images 
+val: allrunningvideos/valid/images    
+
+
+

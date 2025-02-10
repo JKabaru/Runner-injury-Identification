@@ -1,0 +1,5 @@
+train: E:/Users/Public/ProjectICS/All_videos/001/images/train  # Path to training images
+val: E:/Users/Public/ProjectICS/All_videos/001/images/val    # Path to validation images
+
+nc: 1  # Number of classes
+names: ['Running']  # List of class names
